@@ -1,0 +1,8 @@
+DATA PROVENANCE: Fixed-seed synthetic teaching data; not observed restaurant data.
+
+1. Mean demand peaks at 19:00, averaging 31.52 orders per outlet-hour.
+2. Weekend observations have the higher mean demand (20.87 orders per outlet-hour).
+3. The holiday group has the higher mean demand (21.33 orders per outlet-hour; holiday/non-holiday ratio 1.14).
+4. OUTLET_A has the highest outlet-average queue length (1.10) and averages 4.60 staff.
+5. The highest mean workload is at OUTLET_A at 13:00 (6.10 orders per employee); OUTLET_A has the highest overall outlet-average workload (5.01).
+6. The data-derived classification marks 21.5% of outlet-hour-day-type-holiday periods understaffed and 1.4% overstaffed. The raw staff-count/queue-length Pearson correlation is -0.292; this is observational and does not establish causation.

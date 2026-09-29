@@ -1,0 +1,145 @@
+Time_Period,Outlet_ID,Day_Type,Holiday,Demand_Situation,Order_Volume,Staff_Count,Orders_Per_Employee,Queue_Length,Queue_Situation,Staffing_Status,Recommended_Action,Observation_Count
+07:00,OUTLET_A,Weekday,False,Low relative to observed periods,8.171,2.963,3.313,0.488,Low relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,82
+08:00,OUTLET_A,Weekday,False,Low relative to observed periods,11.573,3.439,3.844,0.695,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,82
+09:00,OUTLET_A,Weekday,False,Low relative to observed periods,10.744,2.793,4.698,1.073,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,82
+10:00,OUTLET_A,Weekday,False,Low relative to observed periods,10.561,3.39,3.456,0.415,Low relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,82
+11:00,OUTLET_A,Weekday,False,Middle range of observed periods,16.11,3.939,4.679,1.024,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,82
+12:00,OUTLET_A,Weekday,False,High relative to observed periods,26.915,5.098,5.552,1.146,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,82
+13:00,OUTLET_A,Weekday,False,High relative to observed periods,32.89,5.5,6.324,1.793,High relative to observed periods,Understaffed,Increase staffing during comparable periods and monitor queue pressure.,82
+14:00,OUTLET_A,Weekday,False,Middle range of observed periods,25.439,4.817,5.6,1.415,High relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,82
+15:00,OUTLET_A,Weekday,False,Middle range of observed periods,19.293,4.11,5.212,1.207,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,82
+16:00,OUTLET_A,Weekday,False,Middle range of observed periods,16.134,3.732,4.803,0.963,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,82
+17:00,OUTLET_A,Weekday,False,Middle range of observed periods,20.744,4.427,5.178,1.11,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,82
+18:00,OUTLET_A,Weekday,False,High relative to observed periods,29.793,5.195,5.974,1.598,High relative to observed periods,Understaffed,Increase staffing during comparable periods and monitor queue pressure.,82
+19:00,OUTLET_A,Weekday,False,High relative to observed periods,35.524,6.122,6.03,1.39,High relative to observed periods,Understaffed,Increase staffing during comparable periods and monitor queue pressure.,82
+20:00,OUTLET_A,Weekday,False,High relative to observed periods,31.366,5.732,5.717,1.305,High relative to observed periods,Understaffed,Increase staffing during comparable periods and monitor queue pressure.,82
+21:00,OUTLET_A,Weekday,False,Middle range of observed periods,23.902,4.524,5.86,1.39,High relative to observed periods,Understaffed,Increase staffing during comparable periods and monitor queue pressure.,82
+22:00,OUTLET_A,Weekday,False,Middle range of observed periods,16.671,3.915,4.815,1.037,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,82
+07:00,OUTLET_A,Weekday,True,Low relative to observed periods,10.25,2.5,5.417,2.25,High relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,4
+08:00,OUTLET_A,Weekday,True,Middle range of observed periods,13.25,2.5,6.625,2.75,High relative to observed periods,Understaffed,Increase staffing during comparable periods and monitor queue pressure.,4
+09:00,OUTLET_A,Weekday,True,Low relative to observed periods,11.0,4.25,2.875,0.25,Low relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,4
+10:00,OUTLET_A,Weekday,True,Middle range of observed periods,14.25,4.0,3.833,0.5,Low relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,4
+11:00,OUTLET_A,Weekday,True,Middle range of observed periods,19.25,4.0,5.325,1.5,High relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,4
+12:00,OUTLET_A,Weekday,True,High relative to observed periods,35.25,5.75,6.333,1.5,High relative to observed periods,Understaffed,Increase staffing during comparable periods and monitor queue pressure.,4
+13:00,OUTLET_A,Weekday,True,High relative to observed periods,38.5,6.0,6.498,1.75,High relative to observed periods,Understaffed,Increase staffing during comparable periods and monitor queue pressure.,4
+14:00,OUTLET_A,Weekday,True,High relative to observed periods,31.75,5.75,5.538,1.0,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,4
+15:00,OUTLET_A,Weekday,True,Middle range of observed periods,19.25,3.5,6.0,1.0,Middle range of observed periods,Understaffed,Increase staffing during comparable periods and monitor queue pressure.,4
+16:00,OUTLET_A,Weekday,True,Middle range of observed periods,16.5,3.5,5.212,1.75,High relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,4
+17:00,OUTLET_A,Weekday,True,Middle range of observed periods,25.0,5.75,4.451,0.5,Low relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,4
+18:00,OUTLET_A,Weekday,True,High relative to observed periods,32.5,6.0,5.581,0.75,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,4
+19:00,OUTLET_A,Weekday,True,High relative to observed periods,47.25,6.75,7.146,0.5,Low relative to observed periods,Understaffed,Increase staffing during comparable periods and monitor queue pressure.,4
+20:00,OUTLET_A,Weekday,True,High relative to observed periods,41.25,7.5,5.554,2.0,High relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,4
+21:00,OUTLET_A,Weekday,True,High relative to observed periods,30.75,5.75,5.503,1.25,High relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,4
+22:00,OUTLET_A,Weekday,True,Middle range of observed periods,18.5,4.5,5.008,2.0,High relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,4
+07:00,OUTLET_A,Weekend,False,Low relative to observed periods,9.176,3.765,2.763,0.235,Low relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+08:00,OUTLET_A,Weekend,False,Middle range of observed periods,14.088,3.735,4.143,0.706,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+09:00,OUTLET_A,Weekend,False,Middle range of observed periods,12.647,3.794,3.9,0.676,Low relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+10:00,OUTLET_A,Weekend,False,Middle range of observed periods,13.471,4.0,3.761,0.765,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+11:00,OUTLET_A,Weekend,False,Middle range of observed periods,18.118,3.941,5.196,1.265,High relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+12:00,OUTLET_A,Weekend,False,High relative to observed periods,29.676,5.941,5.23,1.147,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+13:00,OUTLET_A,Weekend,False,High relative to observed periods,35.912,6.618,5.519,1.412,High relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+14:00,OUTLET_A,Weekend,False,High relative to observed periods,29.824,5.588,5.576,1.353,High relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+15:00,OUTLET_A,Weekend,False,Middle range of observed periods,21.706,4.765,4.792,0.882,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+16:00,OUTLET_A,Weekend,False,Middle range of observed periods,19.441,4.529,4.548,0.971,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+17:00,OUTLET_A,Weekend,False,Middle range of observed periods,23.147,5.235,4.621,1.029,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+18:00,OUTLET_A,Weekend,False,High relative to observed periods,36.059,6.588,5.652,1.0,Middle range of observed periods,Understaffed,Increase staffing during comparable periods and monitor queue pressure.,34
+19:00,OUTLET_A,Weekend,False,High relative to observed periods,41.412,7.147,5.926,1.088,Middle range of observed periods,Understaffed,Increase staffing during comparable periods and monitor queue pressure.,34
+20:00,OUTLET_A,Weekend,False,High relative to observed periods,37.647,6.824,5.666,1.147,Middle range of observed periods,Understaffed,Increase staffing during comparable periods and monitor queue pressure.,34
+21:00,OUTLET_A,Weekend,False,High relative to observed periods,28.294,5.5,5.357,1.206,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+22:00,OUTLET_A,Weekend,False,Middle range of observed periods,19.324,4.471,4.713,1.176,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+07:00,OUTLET_B,Weekday,False,Low relative to observed periods,6.939,2.841,2.967,0.488,Low relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,82
+08:00,OUTLET_B,Weekday,False,Low relative to observed periods,9.366,2.963,3.777,0.732,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,82
+09:00,OUTLET_B,Weekday,False,Low relative to observed periods,8.439,2.866,3.495,0.634,Low relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,82
+10:00,OUTLET_B,Weekday,False,Low relative to observed periods,8.61,3.207,3.308,0.537,Low relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,82
+11:00,OUTLET_B,Weekday,False,Middle range of observed periods,12.768,3.244,4.685,1.073,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,82
+12:00,OUTLET_B,Weekday,False,Middle range of observed periods,23.415,4.512,5.649,1.28,High relative to observed periods,Understaffed,Increase staffing during comparable periods and monitor queue pressure.,82
+13:00,OUTLET_B,Weekday,False,High relative to observed periods,28.073,5.268,5.632,1.329,High relative to observed periods,Understaffed,Increase staffing during comparable periods and monitor queue pressure.,82
+14:00,OUTLET_B,Weekday,False,Middle range of observed periods,22.683,4.524,5.449,1.207,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,82
+15:00,OUTLET_B,Weekday,False,Middle range of observed periods,16.268,3.915,4.805,1.049,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,82
+16:00,OUTLET_B,Weekday,False,Middle range of observed periods,13.122,3.561,4.262,0.744,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,82
+17:00,OUTLET_B,Weekday,False,Middle range of observed periods,17.427,3.854,5.115,1.195,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,82
+18:00,OUTLET_B,Weekday,False,Middle range of observed periods,25.854,5.159,5.357,1.305,High relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,82
+19:00,OUTLET_B,Weekday,False,High relative to observed periods,29.793,5.549,5.821,1.415,High relative to observed periods,Understaffed,Increase staffing during comparable periods and monitor queue pressure.,82
+20:00,OUTLET_B,Weekday,False,High relative to observed periods,27.11,5.11,5.665,1.207,Middle range of observed periods,Understaffed,Increase staffing during comparable periods and monitor queue pressure.,82
+21:00,OUTLET_B,Weekday,False,Middle range of observed periods,21.805,4.329,5.425,1.22,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,82
+22:00,OUTLET_B,Weekday,False,Middle range of observed periods,13.841,3.39,4.701,0.902,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,82
+07:00,OUTLET_B,Weekday,True,Low relative to observed periods,8.25,2.75,3.125,0.75,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,4
+08:00,OUTLET_B,Weekday,True,Low relative to observed periods,10.25,2.75,5.433,2.25,High relative to observed periods,Understaffed,Increase staffing during comparable periods and monitor queue pressure.,4
+09:00,OUTLET_B,Weekday,True,Low relative to observed periods,10.5,2.25,6.25,2.0,High relative to observed periods,Understaffed,Increase staffing during comparable periods and monitor queue pressure.,4
+10:00,OUTLET_B,Weekday,True,Low relative to observed periods,12.25,3.75,3.287,0.75,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,4
+11:00,OUTLET_B,Weekday,True,Middle range of observed periods,15.75,3.25,5.25,0.25,Low relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,4
+12:00,OUTLET_B,Weekday,True,High relative to observed periods,27.25,5.5,5.012,0.25,Low relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,4
+13:00,OUTLET_B,Weekday,True,High relative to observed periods,32.75,6.25,5.436,1.0,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,4
+14:00,OUTLET_B,Weekday,True,Middle range of observed periods,25.25,4.75,5.388,1.5,High relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,4
+15:00,OUTLET_B,Weekday,True,Middle range of observed periods,16.5,4.25,4.617,0.75,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,4
+16:00,OUTLET_B,Weekday,True,Middle range of observed periods,19.25,4.5,4.44,0.75,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,4
+17:00,OUTLET_B,Weekday,True,Middle range of observed periods,23.25,3.75,6.538,2.0,High relative to observed periods,Understaffed,Increase staffing during comparable periods and monitor queue pressure.,4
+18:00,OUTLET_B,Weekday,True,High relative to observed periods,31.75,5.75,6.131,1.0,Middle range of observed periods,Understaffed,Increase staffing during comparable periods and monitor queue pressure.,4
+19:00,OUTLET_B,Weekday,True,High relative to observed periods,34.0,6.25,5.675,1.25,High relative to observed periods,Understaffed,Increase staffing during comparable periods and monitor queue pressure.,4
+20:00,OUTLET_B,Weekday,True,High relative to observed periods,26.75,6.25,4.413,0.0,Low relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,4
+21:00,OUTLET_B,Weekday,True,Middle range of observed periods,24.5,4.25,6.458,1.25,High relative to observed periods,Understaffed,Increase staffing during comparable periods and monitor queue pressure.,4
+22:00,OUTLET_B,Weekday,True,Middle range of observed periods,16.0,4.75,3.475,0.25,Low relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,4
+07:00,OUTLET_B,Weekend,False,Low relative to observed periods,7.971,3.412,2.657,0.353,Low relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+08:00,OUTLET_B,Weekend,False,Low relative to observed periods,11.382,4.176,3.142,0.235,Low relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+09:00,OUTLET_B,Weekend,False,Low relative to observed periods,10.412,3.824,3.094,0.353,Low relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+10:00,OUTLET_B,Weekend,False,Low relative to observed periods,10.735,3.647,3.445,0.706,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+11:00,OUTLET_B,Weekend,False,Middle range of observed periods,17.441,4.324,4.389,0.824,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+12:00,OUTLET_B,Weekend,False,Middle range of observed periods,26.735,5.735,4.842,0.765,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+13:00,OUTLET_B,Weekend,False,High relative to observed periods,31.235,6.235,5.163,1.059,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+14:00,OUTLET_B,Weekend,False,Middle range of observed periods,25.559,5.647,4.759,0.765,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+15:00,OUTLET_B,Weekend,False,Middle range of observed periods,19.118,4.912,4.143,0.676,Low relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+16:00,OUTLET_B,Weekend,False,Middle range of observed periods,16.412,4.265,4.369,0.706,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+17:00,OUTLET_B,Weekend,False,Middle range of observed periods,20.941,4.735,4.858,1.324,High relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+18:00,OUTLET_B,Weekend,False,High relative to observed periods,30.441,5.765,5.439,1.059,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+19:00,OUTLET_B,Weekend,False,High relative to observed periods,33.441,6.265,5.52,1.294,High relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+20:00,OUTLET_B,Weekend,False,High relative to observed periods,31.147,6.294,5.117,0.765,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+21:00,OUTLET_B,Weekend,False,Middle range of observed periods,23.912,5.118,4.867,1.235,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+22:00,OUTLET_B,Weekend,False,Middle range of observed periods,17.0,4.059,4.523,0.765,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+07:00,OUTLET_C,Weekday,False,Low relative to observed periods,5.878,2.732,2.798,0.329,Low relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,82
+08:00,OUTLET_C,Weekday,False,Low relative to observed periods,8.573,3.183,3.413,0.683,Low relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,82
+09:00,OUTLET_C,Weekday,False,Low relative to observed periods,7.841,2.939,3.362,0.732,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,82
+10:00,OUTLET_C,Weekday,False,Low relative to observed periods,7.488,2.878,3.398,0.573,Low relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,82
+11:00,OUTLET_C,Weekday,False,Low relative to observed periods,11.756,3.451,4.217,0.793,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,82
+12:00,OUTLET_C,Weekday,False,Middle range of observed periods,19.085,4.171,5.084,1.195,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,82
+13:00,OUTLET_C,Weekday,False,Middle range of observed periods,21.988,4.305,5.543,1.463,High relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,82
+14:00,OUTLET_C,Weekday,False,Middle range of observed periods,18.134,4.061,4.778,0.866,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,82
+15:00,OUTLET_C,Weekday,False,Middle range of observed periods,13.439,3.341,4.549,0.878,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,82
+16:00,OUTLET_C,Weekday,False,Low relative to observed periods,11.402,3.244,4.192,0.78,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,82
+17:00,OUTLET_C,Weekday,False,Middle range of observed periods,14.793,3.732,4.747,1.073,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,82
+18:00,OUTLET_C,Weekday,False,Middle range of observed periods,22.207,4.622,5.146,0.793,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,82
+19:00,OUTLET_C,Weekday,False,Middle range of observed periods,24.646,4.598,5.873,1.695,High relative to observed periods,Understaffed,Increase staffing during comparable periods and monitor queue pressure.,82
+20:00,OUTLET_C,Weekday,False,Middle range of observed periods,22.439,4.537,5.383,1.146,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,82
+21:00,OUTLET_C,Weekday,False,Middle range of observed periods,17.854,4.159,4.695,0.793,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,82
+22:00,OUTLET_C,Weekday,False,Low relative to observed periods,11.744,3.134,4.615,1.11,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,82
+07:00,OUTLET_C,Weekday,True,Low relative to observed periods,6.5,3.0,2.167,0.0,Low relative to observed periods,Overstaffed,Consider reallocating staff to higher-pressure periods; monitor service measures.,4
+08:00,OUTLET_C,Weekday,True,Low relative to observed periods,9.0,3.75,2.292,0.0,Low relative to observed periods,Overstaffed,Consider reallocating staff to higher-pressure periods; monitor service measures.,4
+09:00,OUTLET_C,Weekday,True,Low relative to observed periods,10.75,3.0,6.333,1.75,High relative to observed periods,Understaffed,Increase staffing during comparable periods and monitor queue pressure.,4
+10:00,OUTLET_C,Weekday,True,Low relative to observed periods,10.0,3.5,2.833,0.25,Low relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,4
+11:00,OUTLET_C,Weekday,True,Low relative to observed periods,12.25,2.5,6.167,1.25,High relative to observed periods,Understaffed,Increase staffing during comparable periods and monitor queue pressure.,4
+12:00,OUTLET_C,Weekday,True,Middle range of observed periods,20.75,4.75,5.488,1.5,High relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,4
+13:00,OUTLET_C,Weekday,True,High relative to observed periods,27.75,4.5,6.283,1.25,High relative to observed periods,Understaffed,Increase staffing during comparable periods and monitor queue pressure.,4
+14:00,OUTLET_C,Weekday,True,Middle range of observed periods,25.0,5.0,5.586,1.25,High relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,4
+15:00,OUTLET_C,Weekday,True,Middle range of observed periods,17.0,3.0,6.25,0.5,Low relative to observed periods,Understaffed,Increase staffing during comparable periods and monitor queue pressure.,4
+16:00,OUTLET_C,Weekday,True,Middle range of observed periods,13.0,3.5,3.971,1.0,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,4
+17:00,OUTLET_C,Weekday,True,Middle range of observed periods,17.5,3.75,5.275,1.0,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,4
+18:00,OUTLET_C,Weekday,True,High relative to observed periods,27.25,5.0,6.417,2.5,High relative to observed periods,Understaffed,Increase staffing during comparable periods and monitor queue pressure.,4
+19:00,OUTLET_C,Weekday,True,High relative to observed periods,28.25,5.0,5.696,1.75,High relative to observed periods,Understaffed,Increase staffing during comparable periods and monitor queue pressure.,4
+20:00,OUTLET_C,Weekday,True,High relative to observed periods,27.25,4.75,5.812,0.75,Middle range of observed periods,Understaffed,Increase staffing during comparable periods and monitor queue pressure.,4
+21:00,OUTLET_C,Weekday,True,Middle range of observed periods,19.25,5.0,3.971,0.25,Low relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,4
+22:00,OUTLET_C,Weekday,True,Middle range of observed periods,13.75,3.25,4.742,0.5,Low relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,4
+07:00,OUTLET_C,Weekend,False,Low relative to observed periods,5.882,3.206,2.16,0.235,Low relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+08:00,OUTLET_C,Weekend,False,Low relative to observed periods,9.794,3.706,2.85,0.235,Low relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+09:00,OUTLET_C,Weekend,False,Low relative to observed periods,8.971,3.559,2.734,0.206,Low relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+10:00,OUTLET_C,Weekend,False,Low relative to observed periods,9.676,3.706,2.819,0.265,Low relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+11:00,OUTLET_C,Weekend,False,Middle range of observed periods,13.559,3.794,3.972,0.529,Low relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+12:00,OUTLET_C,Weekend,False,Middle range of observed periods,22.265,4.971,4.876,0.912,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+13:00,OUTLET_C,Weekend,False,Middle range of observed periods,25.529,5.059,5.357,1.118,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+14:00,OUTLET_C,Weekend,False,Middle range of observed periods,20.029,4.735,4.502,0.912,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+15:00,OUTLET_C,Weekend,False,Middle range of observed periods,15.206,4.059,4.257,0.706,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+16:00,OUTLET_C,Weekend,False,Low relative to observed periods,12.529,4.088,3.284,0.382,Low relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+17:00,OUTLET_C,Weekend,False,Middle range of observed periods,19.206,5.029,4.042,0.529,Low relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+18:00,OUTLET_C,Weekend,False,Middle range of observed periods,26.088,5.412,5.086,1.324,High relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+19:00,OUTLET_C,Weekend,False,High relative to observed periods,29.088,5.853,5.257,1.176,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+20:00,OUTLET_C,Weekend,False,Middle range of observed periods,26.647,5.471,5.004,0.912,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+21:00,OUTLET_C,Weekend,False,Middle range of observed periods,20.441,4.206,5.332,1.176,Middle range of observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34
+22:00,OUTLET_C,Weekend,False,Middle range of observed periods,12.971,3.794,3.87,0.618,Low relative to observed periods,Balanced,Maintain current staffing and continue monitoring queue pressure.,34

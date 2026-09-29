@@ -1,0 +1,5 @@
+Variable,count,mean,median,std,min,max
+Order_Volume,5760.0,18.876,18.0,9.3,1.0,57.0
+Average_Preparation_Time,5760.0,5.175,5.14,0.923,1.95,9.37
+Queue_Length,5760.0,0.975,0.0,1.337,0.0,9.0
+Staff_Count,5760.0,4.262,4.0,1.659,1.0,10.0

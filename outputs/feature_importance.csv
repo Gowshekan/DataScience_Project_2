@@ -1,0 +1,12 @@
+Feature,Importance
+Average_Preparation_Time,0.36299
+Staff_Count,0.2554
+Order_Volume,0.24118
+Hour,0.08091
+Outlet_ID_OUTLET_B,0.01366
+Outlet_ID_OUTLET_C,0.01328
+Outlet_ID_OUTLET_A,0.01326
+Day_Type_Weekday,0.00855
+Day_Type_Weekend,0.00846
+Holiday_True,0.00116
+Holiday_False,0.00115

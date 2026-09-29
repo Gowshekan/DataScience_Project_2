@@ -1,0 +1,2 @@
+Target,Split,Train_Rows,Test_Rows,MAE,MSE,RMSE,R2,Top_Features
+Queue_Length,Chronological 80/20 by unique date,4608,1152,0.6684,0.811,0.9006,0.5275,Average_Preparation_Time (0.363); Staff_Count (0.255); Order_Volume (0.241); Hour (0.081); Outlet_ID_OUTLET_B (0.014)

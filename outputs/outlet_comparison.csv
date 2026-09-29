@@ -1,0 +1,4 @@
+Outlet_ID,Order_Volume,Staff_Count,Queue_Length,Average_Preparation_Time,Orders_Per_Employee,Observation_Count
+OUTLET_A,22.091,4.599,1.099,5.252,5.013,1920
+OUTLET_B,18.803,4.282,0.958,5.181,4.665,1920
+OUTLET_C,15.734,3.906,0.868,5.091,4.389,1920

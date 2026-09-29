@@ -1,0 +1,5 @@
+,Staff_Count,Queue_Length,Order_Volume,Average_Preparation_Time
+Staff_Count,1.0,-0.292,0.658,-0.175
+Queue_Length,-0.292,1.0,0.22,0.458
+Order_Volume,0.658,0.22,1.0,0.247
+Average_Preparation_Time,-0.175,0.458,0.247,1.0
